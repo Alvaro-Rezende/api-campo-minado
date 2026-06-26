@@ -14,9 +14,8 @@ API REST desenvolvida em Node.js para uma plataforma de apostas baseada no jogo 
 
 ## Integrantes
 
-- Álvaro Rezende Martimiano
-- João Luiz Rezende
-- Luiza Cardoso da Locha 
+- Álvaro Rezende
+- João Luiz
 
 ---
 
